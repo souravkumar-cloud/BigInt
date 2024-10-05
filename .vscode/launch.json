@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/github practice/BigInt",
-      "program": "d:/github practice/BigInt/build/Debug/outDebug",
+      "cwd": "d:/github practice/BigInt-1",
+      "program": "d:/github practice/BigInt-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

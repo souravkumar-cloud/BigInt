@@ -13,7 +13,7 @@ class BigInt{
     friend bool Null(BigInt &);
     friend int length(BigInt &);
     int operator[](const int)const;
-    //new comment
+    //new comment again new add comment
     BigInt &operator=(const BigInt &);
 
     BigInt &operator++();
